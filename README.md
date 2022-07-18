@@ -3,7 +3,5 @@
 
 ## Introduction
 
-
-Project created in collaboration with Rajdeep Mukherjee: 
 Portfolio - https://rajdeep-mukherjee.github.io/Portfolio/
 E-mail - rajdeep8084@gmail.com
